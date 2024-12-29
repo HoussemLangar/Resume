@@ -27,9 +27,13 @@ Bienvenue sur le dépôt GitHub contenant mon CV numérique. Ce document présen
 ## 💻 Compétences  
 
 **Langages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS.
+
 **Frameworks et outils:** Symfony, Laravel, React, Node.js, AndroidStudio, Bootstrap, JavaFX, Flutter, Docker, Dash.
+
 **Bases de données :** MySQL, Oracle, PL/SQL, Firebase (NoSQL).
+
 **Outils de développement:** Visual Studio, IntelliJ IDEA, Android Studio, Git, GitHub, MySQL Workbench, Oracle Database, VMware Workstation, StarUML.
+
 **Autres:** Power BI, Word, Excel, Access, PowerPoint, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator.
 
 ---
