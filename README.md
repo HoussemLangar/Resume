@@ -5,7 +5,10 @@ Bienvenue sur le dépôt GitHub contenant mon CV numérique. Ce document présen
 ---
 
 ## 📌 À propos de moi  
-Étudiant en informatique passionné par le développement web, mobile, et la visualisation de données. Je suis motivé par la résolution de problèmes complexes, la création de solutions technologiques innovantes et la collaboration sur des projets à fort impact.  
+Développeur junior récemment diplômé en Business Computing avec mention Très Bien, passionné
+par les technologies web, mobiles et cloud. Autonome, rigoureux et à l’aise avec les environnements
+modernes (DevOps, API, conteneurs), je suis prêt à contribuer à des projets innovants et à forte valeur
+ajoutée.  
 
 ---
 
@@ -13,7 +16,7 @@ Bienvenue sur le dépôt GitHub contenant mon CV numérique. Ce document présen
 - **Licence en Informatique de Gestion**  
   - **École Supérieure des Sciences Économiques et Commerciales de Tunis**  
   - Spécialité : E-Business  
-  - *2023 - Présent*  
+  - *2023 - 2025*  
 
 - **1ère année en Informatique de Gestion**  
   - **Institut Supérieur de Gestion de Sousse**  
@@ -28,15 +31,49 @@ Bienvenue sur le dépôt GitHub contenant mon CV numérique. Ce document présen
 
 **Langages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS.
 
-**Frameworks et outils:** Symfony, Laravel, React, Node.js, AndroidStudio, Bootstrap, JavaFX, Flutter, Docker, Dash.
+**Frameworks et outils:** Symfony, Laravel, React, Node.js, Angular, Bootstrap, JavaFX, Flutter, Docker,
+Kannel, Spring Boot, Dash, Grafana, Prometheus, EFK Stack (Elasticsearch, Fluentd, Kibana), Kubernetes.
 
-**Bases de données :** MySQL, Oracle, PL/SQL, Firebase (NoSQL).
+**Bases de données :** MySQL, PostgreSQL, Oracle, Firebase (NoSQL).
 
-**Outils de développement:** Visual Studio, IntelliJ IDEA, Android Studio, Git, GitHub, MySQL Workbench, Oracle Database, VMware Workstation, StarUML.
+**Outils Dev :** Git, GitHub, Visual Studio, IntelliJ IDEA, Android Studio, VMware, StarUML.
 
-**Autres:** Power BI, Word, Excel, Access, PowerPoint, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator.
+**Outils analytiques & Design :** Power BI, Adobe (Photoshop, Illustrator, Premiere Pro).
+
+**Systèmes d’exploitation :** Windows, Ubuntu, CentOS.
 
 ---
+
+## 🧑‍💼 Stages
+
+### 🎓 Projet de Fin d'Études – Orange Tunisie *(Fév. – Juin 2025)*  
+**Plateforme de géolocalisation et de marketing personnalisé en temps réel - WelcomeSMS**  
+- Collecte, traitement et analyse de données de géolocalisation avec **Kafka**  
+- Envoi automatique de SMS via **Kannel**  
+- Interface d'administration avec **Angular** et **Bootstrap**  
+- Backend sécurisé avec **Spring Boot**, **JWT**, **PostgreSQL**  
+- Conteneurisation avec **Docker**, orchestration via **Kubernetes**  
+- Monitoring avec **Grafana**, **Prometheus**, **EFK Stack**  
+- Conformité RGPD
+
+### 🛠 Stage d’été – SagemCom Ezzahra *(Juil. – Août 2024)*  
+**Application de gestion du stock des outils informatiques**  
+- Gestion des utilisateurs avec permissions sécurisées  
+- Génération de codes-barres pour le suivi des outils  
+- Tableau de bord avec **Power BI**  
+- Développement avec **Symfony**, **PHP**, **MySQL**, **Twig**  
+- Déploiement via **Docker**  
+- Interface moderne et responsive
+
+### 🗂 Stage d’été – Banque Tunisienne de Solidarité *(Juil. 2023)*  
+**Application de gestion des demandes d'amélioration interne**  
+- Analyse des besoins fonctionnels  
+- Développement avec **Laravel**, **PHP**, **Blade**, **CSS**, **JavaScript**  
+- Interface intuitive et moderne  
+- Système de suivi des demandes
+
+---
+
 
 ## 🌟 Projets Clés  
 
