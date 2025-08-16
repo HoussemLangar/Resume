@@ -32,7 +32,8 @@ ajoutée.
 **Langages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS.
 
 **Frameworks et outils:** Symfony, Laravel, React, Node.js, Angular, Bootstrap, JavaFX, Flutter, Docker,
-Kannel, Spring Boot, Dash, Grafana, Prometheus, EFK Stack (Elasticsearch, Fluentd, Kibana), Kubernetes.
+Kannel, Spring Boot, Dash, Grafana, Prometheus, EFK Stack (Elasticsearch, Fluentd, Kibana), Kubernetes
+.
 
 **Bases de données :** MySQL, PostgreSQL, Oracle, Firebase (NoSQL).
 
@@ -40,7 +41,16 @@ Kannel, Spring Boot, Dash, Grafana, Prometheus, EFK Stack (Elasticsearch, Fluent
 
 **Outils analytiques & Design :** Power BI, Adobe (Photoshop, Illustrator, Premiere Pro).
 
+
 **Systèmes d’exploitation :** Windows, Ubuntu, CentOS.
+
+---
+
+## 📜 Certifications  
+
+- **Aviatrix Certified Engineer – Multicloud Network Associate** *(ID: 2025-25944)*  
+  *Aviatrix, Inc. – Délivrée le 05 août 2025, valide jusqu’au 05 août 2028*  
+  ➝ Conception, exploitation, automatisation, mise à l’échelle et sécurisation de réseaux multicloud (**AWS, Azure, GCP, OCI**) avec la plateforme Aviatrix.  
 
 ---
 
@@ -97,6 +107,14 @@ Kannel, Spring Boot, Dash, Grafana, Prometheus, EFK Stack (Elasticsearch, Fluent
 ### **MarketPlace web**  
 - Plateforme bilingue avec **React** et **Node.js** pour la gestion des produits et commandes.  
 - Optimisation SEO, interface responsive et tableaux de bord avec **Power BI**.  
+
+---
+
+## 🏆 Distinctions & Interventions  
+- 🥈 2ᵉ place – Best Project (ESSEC Tunis – 2025)  
+- 🎯 Finaliste – Challenge PFE Orange Tunisie (2025)  
+- 🎤 Intervenant – Workshop Laravel @ ESSEC Tunis  
+- 🎙 Conférencier – “Réussir Mon PFE” @ ESSEC Tunis  
 
 ---
 
