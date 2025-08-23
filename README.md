@@ -1,130 +1,95 @@
-# 💼 CV - Houssem Langar  
+# 💼 Houssem Langar  
 
-Bienvenue sur le dépôt GitHub contenant mon CV numérique. Ce document présente mon parcours académique, mes compétences, mes projets réalisés et mes informations de contact.  
-
----
-
-## 📌 À propos de moi  
-Développeur junior récemment diplômé en Business Computing avec mention Très Bien, passionné
-par les technologies web, mobiles et cloud. Autonome, rigoureux et à l’aise avec les environnements
-modernes (DevOps, API, conteneurs), je suis prêt à contribuer à des projets innovants et à forte valeur
-ajoutée.  
+Welcome to my digital CV 👋  
+This repository highlights my **education**, **skills**, **projects**, **internships**, and **certifications**.  
 
 ---
 
-## 🎓 Formation  
-- **Licence en Informatique de Gestion**  
-  - **École Supérieure des Sciences Économiques et Commerciales de Tunis**  
-  - Spécialité : E-Business  
-  - *2023 - 2025*  
-
-- **1ère année en Informatique de Gestion**  
-  - **Institut Supérieur de Gestion de Sousse**  
-  - *2022 - 2023*  
-
-- **Baccalauréat en Sciences d’Informatique**  
-  - *2022*  
+## 📌 About Me  
+🎓 Junior developer with a Bachelor’s in **Business Computing** (with honors).  
+💻 Passionate about **Web, Mobile, and Cloud technologies**.  
+⚡ Experienced in **modern environments** (DevOps, APIs, Containers).  
+🚀 Motivated to contribute to **innovative, high-value projects**.  
 
 ---
 
-## 💻 Compétences  
+## 🎓 Education  
+- **Bachelor’s in Business Computing (E-Business)** – ESSEC Tunis *(2023–2025)*  
+- **1st Year in Business Computing** – ISG Sousse *(2022–2023)*  
+- **High School Diploma in Computer Science** *(2022)*  
 
-**Langages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS.
+---
 
-**Frameworks et outils:** Symfony, Laravel, React, Node.js, Angular, Bootstrap, JavaFX, Flutter, Docker,
-Kannel, Spring Boot, Dash, Grafana, Prometheus, EFK Stack (Elasticsearch, Fluentd, Kibana), Kubernetes
-.
+## 💻 Skills  
 
-**Bases de données :** MySQL, PostgreSQL, Oracle, Firebase (NoSQL).
-
-**Outils Dev :** Git, GitHub, Visual Studio, IntelliJ IDEA, Android Studio, VMware, StarUML.
-
-**Outils analytiques & Design :** Power BI, Adobe (Photoshop, Illustrator, Premiere Pro).
-
-
-**Systèmes d’exploitation :** Windows, Ubuntu, CentOS.
+**Languages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS  
+**Frameworks & Tools:** Symfony, Laravel, React, Node.js, Angular, Bootstrap, Flutter, Docker, Spring Boot, Grafana, Prometheus, Kubernetes  
+**Databases:** MySQL, PostgreSQL, Oracle, Firebase (NoSQL)  
+**Dev Tools:** Git, GitHub, Visual Studio, IntelliJ IDEA, Android Studio, VMware  
+**Analytics & Design:** Power BI, Adobe Photoshop, Illustrator, Premiere Pro  
+**OS:** Windows, Ubuntu, CentOS  
 
 ---
 
 ## 📜 Certifications  
-
-- **Aviatrix Certified Engineer – Multicloud Network Associate** *(ID: 2025-25944)*  
-  *Aviatrix, Inc. – Délivrée le 05 août 2025, valide jusqu’au 05 août 2028*  
-  ➝ Conception, exploitation, automatisation, mise à l’échelle et sécurisation de réseaux multicloud (**AWS, Azure, GCP, OCI**) avec la plateforme Aviatrix.  
+- **Aviatrix Certified Engineer – Multicloud Network Associate** *(2025–2028)*  
+  - Networking across **AWS, Azure, GCP, OCI** with the Aviatrix platform  
 
 ---
 
-## 🧑‍💼 Stages
+## 🧑‍💼 Internships  
 
-### 🎓 Projet de Fin d'Études – Orange Tunisie *(Fév. – Juin 2025)*  
-**Plateforme de géolocalisation et de marketing personnalisé en temps réel - WelcomeSMS**  
-- Collecte, traitement et analyse de données de géolocalisation avec **Kafka**  
-- Envoi automatique de SMS via **Kannel**  
-- Interface d'administration avec **Angular** et **Bootstrap**  
-- Backend sécurisé avec **Spring Boot**, **JWT**, **PostgreSQL**  
-- Conteneurisation avec **Docker**, orchestration via **Kubernetes**  
-- Monitoring avec **Grafana**, **Prometheus**, **EFK Stack**  
-- Conformité RGPD
+### 🔸 Final Year Project – **Orange Tunisia** *(Feb – Jun 2025)*  
+*Real-Time Geolocation & Personalized Marketing Platform (WelcomeSMS)*  
+- Data streaming with **Kafka**  
+- SMS automation with **Kannel**  
+- Admin dashboard with **Angular** & **Bootstrap**  
+- Secure backend with **Spring Boot** & **JWT**  
+- Deployment with **Docker** & **Kubernetes**  
+- Monitoring via **Grafana**, **Prometheus**, **EFK Stack**  
+- GDPR compliance  
 
-### 🛠 Stage d’été – SagemCom Ezzahra *(Juil. – Août 2024)*  
-**Application de gestion du stock des outils informatiques**  
-- Gestion des utilisateurs avec permissions sécurisées  
-- Génération de codes-barres pour le suivi des outils  
-- Tableau de bord avec **Power BI**  
-- Développement avec **Symfony**, **PHP**, **MySQL**, **Twig**  
-- Déploiement via **Docker**  
-- Interface moderne et responsive
+### 🔸 Summer Internship – **SagemCom Ezzahra** *(Jul – Aug 2024)*  
+*IT Tools Stock Management App*  
+- Secure user management & permissions  
+- Barcode generation for asset tracking  
+- Dashboard with **Power BI**  
+- Built with **Symfony**, **PHP**, **MySQL**, **Twig**  
+- Containerized with **Docker**  
 
-### 🗂 Stage d’été – Banque Tunisienne de Solidarité *(Juil. 2023)*  
-**Application de gestion des demandes d'amélioration interne**  
-- Analyse des besoins fonctionnels  
-- Développement avec **Laravel**, **PHP**, **Blade**, **CSS**, **JavaScript**  
-- Interface intuitive et moderne  
-- Système de suivi des demandes
+### 🔸 Summer Internship – **Tunisian Solidarity Bank** *(Jul 2023)*  
+*Internal Request Management System*  
+- Requirements analysis  
+- Development with **Laravel**, **Blade**, **JS**, **CSS**  
+- Request tracking & intuitive UI  
 
 ---
 
+## 🌟 Key Projects  
 
-## 🌟 Projets Clés  
-
-### **Développement d'une plateforme de visualisation des performances sportives**  
-- Création d’une application interactive avec **Dash** et **Plotly**.  
-- Traitement et extraction des données sportives avec **Pandas**, **NumPy**, et **BeautifulSoup**.  
-- Conception de graphiques dynamiques pour une analyse visuelle intuitive.  
-
-### **Plateforme de gestion de quizz**  
-- Gestion des cours, groupes, questions et quizz via **JavaFX** et **JDBC**.  
-- Génération automatique de quizz en PDF et gestion avancée des horaires.  
-
-### **Application mobile de gestion des absences (ESSECT)**  
-- Application développée avec **Android Studio** et intégration de **Firebase** pour l’authentification et les notifications.  
-- Génération de rapports statistiques et publication sur Google Play.  
-
-### **Application web pour SagemCom**  
-- Gestion des outils informatiques avec **Symfony** et intégration d’un tableau de bord avec **Power BI**.  
-- Déploiement sécurisé via **Docker** et design responsive.  
-
-### **MarketPlace web**  
-- Plateforme bilingue avec **React** et **Node.js** pour la gestion des produits et commandes.  
-- Optimisation SEO, interface responsive et tableaux de bord avec **Power BI**.  
+- **Sports Performance Visualization Platform** – Dash, Plotly, Pandas, NumPy  
+- **Quiz Management System** – JavaFX, JDBC, PDF generation  
+- **Mobile Absence Management App (ESSECT)** – Android Studio, Firebase  
+- **Web App for SagemCom** – Symfony, Power BI, Docker  
+- **Web Marketplace** – React, Node.js, SEO, Power BI dashboards  
 
 ---
 
-## 🏆 Distinctions & Interventions  
-- 🥈 2ᵉ place – Best Project (ESSEC Tunis – 2025)  
-- 🎯 Finaliste – Challenge PFE Orange Tunisie (2025)  
-- 🎤 Intervenant – Workshop Laravel @ ESSEC Tunis  
-- 🎙 Conférencier – “Réussir Mon PFE” @ ESSEC Tunis  
+## 🏆 Awards & Contributions  
+- 🥈 **2nd Place – Best Project** (ESSEC Tunis – 2025)  
+- 🎯 **Finalist – Orange Tunisia PFE Challenge (2025)**  
+- 🎤 Speaker – *Laravel Workshop @ ESSEC Tunis*  
+- 🎙 Lecturer – *“Succeeding in My Final Year Project” @ ESSEC Tunis*  
 
 ---
 
-## 📫 Me Contacter  
+## 📫 Contact  
 
-- **Téléphone :** +216 46 930 400 / +216 50 396 182  
-- **Email :** houssemlangar3@gmail.com  
-- **LinkedIn :** [Houssem Langar](https://linkedin.com/in/houssem-langar)  
-- **GitHub :** [Houssem Langar](https://github.com/HoussemLangar)  
+📱 **Phone:** +216 46 930 400 / +216 50 396 182  
+📧 **Email:** [houssemlangar3@gmail.com](mailto:houssemlangar3@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/houssem-langar](https://linkedin.com/in/houssem-langar)  
+👨‍💻 **GitHub:** [github.com/HoussemLangar](https://github.com/HoussemLangar)  
 
 ---
 
-Vous pouvez cloner ce dépôt pour accéder à la version complète de mon CV ou le consulter directement ici.  
+⭐ If you find my work interesting, don’t forget to **star this repo**!  
