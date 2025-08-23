@@ -67,11 +67,48 @@ This repository highlights my **education**, **skills**, **projects**, **interns
 
 ## 🌟 Key Projects  
 
-- **Sports Performance Visualization Platform** – Dash, Plotly, Pandas, NumPy  
-- **Quiz Management System** – JavaFX, JDBC, PDF generation  
-- **Mobile Absence Management App (ESSECT)** – Android Studio, Firebase  
-- **Web App for SagemCom** – Symfony, Power BI, Docker  
-- **Web Marketplace** – React, Node.js, SEO, Power BI dashboards  
+**Sports Performance Visualization Platform**  
+- Development of an interactive application with **Dash** and **Plotly**.  
+- Data processing and extraction with **Pandas**, **NumPy**, and **BeautifulSoup**.  
+- Design of dynamic charts for intuitive visual analysis.  
+
+**Quiz Management Platform**  
+- Management of courses, groups, questions, and quizzes using **JavaFX** and **JDBC**.  
+- Automatic quiz PDF generation and advanced scheduling management.  
+
+**Mobile Absence Management App (ESSECT)**  
+- Application developed with **Android Studio** and integrated with **Firebase** for authentication and notifications.  
+- Statistical report generation and publishing on Google Play.  
+
+**Web Application for SagemCom**  
+- IT tools management with **Symfony** and integration of a dashboard with **Power BI**.  
+- Secure deployment via **Docker** and responsive design.  
+
+**Web Marketplace**  
+- Bilingual platform with **React** and **Node.js** for product and order management.  
+- SEO optimization, responsive interface, and dashboards with **Power BI**.  
+## 🌟 Key Projects  
+
+**Sports Performance Visualization Platform**  
+- Development of an interactive application with **Dash** and **Plotly**.  
+- Data processing and extraction with **Pandas**, **NumPy**, and **BeautifulSoup**.  
+- Design of dynamic charts for intuitive visual analysis.  
+
+**Quiz Management Platform**  
+- Management of courses, groups, questions, and quizzes using **JavaFX** and **JDBC**.  
+- Automatic quiz PDF generation and advanced scheduling management.  
+
+**Mobile Absence Management App (ESSECT)**  
+- Application developed with **Android Studio** and integrated with **Firebase** for authentication and notifications.  
+- Statistical report generation and publishing on Google Play.  
+
+**Web Application for SagemCom**  
+- IT tools management with **Symfony** and integration of a dashboard with **Power BI**.  
+- Secure deployment via **Docker** and responsive design.  
+
+**Web Marketplace**  
+- Bilingual platform with **React** and **Node.js** for product and order management.  
+- SEO optimization, responsive interface, and dashboards with **Power BI**.  
 
 ---
 
@@ -93,4 +130,5 @@ This repository highlights my **education**, **skills**, **projects**, **interns
 ---
 
 ⭐ If you find my work interesting, don’t forget to **star this repo**!  
+
 
