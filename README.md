@@ -1,4 +1,4 @@
-# 💼 Houssem Langar  
+# 💼 Houssem LANGAR  
 
 Welcome to my digital CV 👋  
 This repository highlights my **education**, **skills**, **projects**, **internships**, and **certifications**.  
@@ -93,3 +93,4 @@ This repository highlights my **education**, **skills**, **projects**, **interns
 ---
 
 ⭐ If you find my work interesting, don’t forget to **star this repo**!  
+
